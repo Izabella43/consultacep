@@ -1,0 +1,24 @@
+body {
+    background: url("../CONSULTACEP/imagens/lupa.jpg");
+    background-size: cover;
+}
+
+fieldset#usuario {
+    padding: 0px;
+    text-align: center;
+    margin: 80px;
+}
+
+section {
+    background: rgb(37, 37, 37);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(255, 254, 254, 0.5);
+}
+
+h1 {
+    text-align: center;
+    color: seagreen;
+}
